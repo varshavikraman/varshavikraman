@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intend to build a career in a reputed organization with committed and dedicated people, which will help me to explore<br>myself fully and realize my potential. Willing to work as a key player in challenging and creative environment.<br>I am currently learning PG Diploma  in Blockchain Technology from Kerala Blockchain Academy under Digital University Kerala.
+Intend to build a career in a reputed organization with committed and dedicated people, which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging and creative environment.<br>I am currently learning PG Diploma  in Blockchain Technology from Kerala Blockchain Academy under Digital University Kerala.
 
 
 ## 🌐 Socials:
