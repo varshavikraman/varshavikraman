@@ -2,7 +2,7 @@
 Intend to build a career in a reputed organization with committed and dedicated people, which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging and creative environment.<br>I am currently learning PG Diploma  in Blockchain Technology from Kerala Blockchain Academy under Digital University Kerala.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varsha-vikraman-387b0933a) 
 
 # 💻 Tech Stack:
