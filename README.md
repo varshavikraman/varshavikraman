@@ -9,7 +9,7 @@
 I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communication Engineering. I love creating innovative web applications using the MERN stack and contributing to open-source projects. When I'm not coding, you can find me exploring new technologies, debugging (which I strangely enjoy!), or contributing to the developer community.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 <img align="justify" alt="Coding" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
