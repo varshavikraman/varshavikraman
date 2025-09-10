@@ -75,7 +75,7 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ## 📈 Activity Graph
 
-[![Varsha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=varshavikraman&theme=react-dark&hide_border=true&area=true)](https://github.com/varshavikraman/github-readme-activity-graph)
+[![Varsha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshavikraman&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
