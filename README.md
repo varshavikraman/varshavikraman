@@ -81,7 +81,7 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ## 🌟 Featured Projects
 
-### 🚀Event Booking System  
+### 🎟️ Event Booking System  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Event-Booking-System&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true)](https://github.com/varshavikraman/Event-Booking-System)
 
 
