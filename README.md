@@ -81,14 +81,19 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ## 🌟 Featured Projects
 
-### 🎟️ **Event Booking System**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Event-Booking-System&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true)](https://github.com/varshavikraman/Event-Booking-System)
+<div align="center" style="background-color:#000000; padding:20px; border-radius:15px; color:#00ff00;">
+
+🎟️ **Event Booking System**
 
 **Description:**  
 A React-based web application where users can browse, book, and manage their tickets. Admins manage events and ticket availability.
 
 **Tech Stack:**  
 React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Docker
+
+[🔗 View on GitHub](https://github.com/varshavikraman/Event-Booking-System)
+
+</div>
 
 
 ### 🔥 React Task Management App
