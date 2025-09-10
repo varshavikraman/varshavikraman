@@ -82,7 +82,24 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 ## 🌟 Featured Projects
 
 ### 🎟️ **Event Booking System**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Event-Booking-System&theme=react&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true&show_description=true&description=A React-based web application where users can browse, book, and manage their tickets. Admins manage events and ticket availability.&show_icons=true&icon_color=00ff00")](https://github.com/varshavikraman/Event-Booking-System)
+<a href="https://github.com/varshavikraman/Event-Booking-System">
+  <div style="background:#000000; border:1px solid #30363d; border-radius:6px; padding:16px; margin-bottom:16px;">
+    <div style="display:flex; align-items:center; margin-bottom:12px;">
+      <svg style="fill:#00ff00; margin-right:8px;" width="16" height="16" viewBox="0 0 16 16" version="1.1">
+        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.53.22l2.72 2.72h.03a.75.75 0 01.22.53v8.75A2.5 2.5 0 0114 14H2.5a2.5 2.5 0 01-2.5-2.5v-9z"></path>
+      </svg>
+      <span style="font-weight:600; color:#00ff00;">varshavikraman /</span>
+      <span style="font-weight:600; color:#00ff00;">Event-Booking-System</span>
+    </div>
+    <p style="color:#00ff00; margin-bottom:12px; font-size:14px;">
+      A React-based web application where users can browse, book, and manage their tickets. Admins manage events and ticket availability.
+    </p>
+    <div style="display:flex; align-items:center;">
+      <span style="background:#00ff00; width:12px; height:12px; border-radius:50%; margin-right:5px;"></span>
+      <span style="color:#00ff00; font-size:12px;">JavaScript</span>
+    </div>
+  </div>
+</a>
 
 
 ### 🔥 React Task Management App
