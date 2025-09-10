@@ -69,7 +69,7 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/varshavikraman/varshavikraman/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/varshavikraman/varshavikraman/blob/dist/snake.svg)
 
 ---
 
