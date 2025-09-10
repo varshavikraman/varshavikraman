@@ -57,11 +57,11 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 <div align="center">
   
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavikraman&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavikraman&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshavikraman&theme=radical&hide_border=true&fire=F70000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshavikraman&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00&stroke=00ff00)
   
 </div>
 
