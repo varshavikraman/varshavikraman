@@ -1,12 +1,55 @@
-# 💫 About Me:
-Intend to build a career in a reputed organization with committed and dedicated people, which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging and creative environment.<br>I am currently learning PG Diploma  in Blockchain Technology from Kerala Blockchain Academy under Digital University Kerala.
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F70000&width=600&lines=Hi+👋,+I'm+Varsha;Full+Stack+Developer;MERN+Stack+%7C+Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
+---
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varsha-vikraman-387b0933a) 
+<!-- Animated GIF Banner -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+## 🚀 About Me  
+- 🎓 Graduate in **Computer Science**  
+- 💻 Passionate about **Full-Stack Development (MERN)**  
+- 🌱 Currently learning **Next.js, Docker, and DevOps**  
+- ⚡ Fun fact: *I enjoy debugging more than coding sometimes 😅*  
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack  
+
+💻 **Languages**  
+`C` | `C++` | `Java` | `Python` | `JavaScript` | `TypeScript`  
+
+🌐 **Web**  
+`React.js` | `Next.js` | `Node.js` | `Express.js` | `HTML` | `CSS` | `Tailwind`  
+
+🛢️ **Databases**  
+`MongoDB` | `MySQL` | `PostgreSQL`  
+
+⚙️ **Tools**  
+`Git` | `GitHub` | `Docker` | `VS Code` | `Postman`  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
+
+---
+
+## 🐍 Contribution Snake  
+![snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+
+---
+
+⭐️ *Made with ❤️ by [Your Name](https://github.com/YourGitHubUsername)*
+
