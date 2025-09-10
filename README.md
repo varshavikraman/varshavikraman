@@ -1,7 +1,5 @@
-<!-- Header Section -->
+
 <div align="center">
-  
-![Header](https://github.com/VarshaVikraman/VarshaVikraman/blob/main/assets/banner.png?raw=true)
 
 # 👋 Hello, I'm Varsha Vikraman
 
