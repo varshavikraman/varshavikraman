@@ -105,6 +105,6 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 <div align="center">
   
-### ⭐️ From [Varsha Vikraman](https://github.com/VarshaVikraman)
+### ⭐️ Made with ❤️ by [Varsha Vikraman](https://github.com/VarshaVikraman)
 
 </div>
