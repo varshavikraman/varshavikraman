@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F70000&width=600&lines=Hi+👋,+I'm+Varsha;Full+Stack+Developer;MERN+Stack+%7C+Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F70000&width=600&lines=Hi+👋,+I'm+Varsha+Vikraman;Full+Stack+Developer;MERN+Stack+%7C+Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
