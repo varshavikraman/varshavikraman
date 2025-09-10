@@ -7,9 +7,10 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 ## 🚀 About Me  
-- 🎓 Graduate in **Computer Science**  
-- 💻 Passionate about **Full-Stack Development (MERN)**  
-- 🌱 Currently learning **Next.js, Docker, and DevOps**  
+- 🎓 Graduate in **B.Tech in Electronics and Communication Engineering**  
+- 💻 Passionate about **Full-Stack Development (MERN)**
+- 👯 Looking to collaborate on **Open Source / MERN Projects** 
+- 🌱 Currently learning **Blockchain Technology**  
 - ⚡ Fun fact: *I enjoy debugging more than coding sometimes 😅*  
 
 ---
@@ -17,13 +18,13 @@
 ## 🛠️ Tech Stack  
 
 💻 **Languages**  
-`C` | `C++` | `Java` | `Python` | `JavaScript` | `TypeScript`  
+`C++` | `JavaScript` 
 
 🌐 **Web**  
-`React.js` | `Next.js` | `Node.js` | `Express.js` | `HTML` | `CSS` | `Tailwind`  
+`React.js` | `Node.js` | `Express.js` | `HTML` | `CSS` | `Tailwind`  
 
 🛢️ **Databases**  
-`MongoDB` | `MySQL` | `PostgreSQL`  
+`MongoDB` 
 
 ⚙️ **Tools**  
 `Git` | `GitHub` | `Docker` | `VS Code` | `Postman`  
