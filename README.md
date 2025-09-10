@@ -81,7 +81,7 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ## 🌟 Featured Projects
 
-### 🚀 MERN Stack E-Commerce Platform
+### 🚀 MERN Stack Event Booking System
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarshaVikraman&repo=mern-ecommerce&theme=radical)](https://github.com/VarshaVikraman/mern-ecommerce)
 
 ### 🔥 React Task Management App
