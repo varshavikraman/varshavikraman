@@ -13,8 +13,6 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 <img align="justify" alt="Coding" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-## 🚀 About Me  
-
 </div>
 
 ---
@@ -34,7 +32,6 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,7 +43,6 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,11 +57,11 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 <div align="center">
   
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarshaVikraman&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaVikraman&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavikraman&layout=compact&theme=radical&hide_border=true&langs_count=8)
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VarshaVikraman&theme=radical&hide_border=true&fire=F70000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshavikraman&theme=radical&hide_border=true&fire=F70000)
   
 </div>
 
@@ -79,7 +75,7 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 
 ## 📈 Activity Graph
 
-[![Varsha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VarshaVikraman&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Varsha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=varshavikraman&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -98,10 +94,7 @@ I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communica
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varsha-vikraman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://varshavikraman.vercel.app)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varsha.vikraman@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VarshaVikraman)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varshavikraman)
 
 </div>
 
