@@ -5,9 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
-<p align="justify">
 Passionate about building scalable web apps and learning new technologies.
-</p>
 
 <img align="justify" alt="Coding" width="350" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
 
