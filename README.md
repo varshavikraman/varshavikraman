@@ -51,7 +51,7 @@ Passionate about building scalable web apps and learning new technologies.
 
 ## 📊 GitHub Stats
   
-![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&custom_title=My%20GitHub%20Stats)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavikraman&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
   
