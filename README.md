@@ -9,7 +9,7 @@
 I'm a passionate Full Stack Developer with a B.Tech in Electronics and Communication Engineering. I love creating innovative web applications using the MERN stack and contributing to open-source projects. When I'm not coding, you can find me exploring new technologies, debugging (which I strangely enjoy!), or contributing to the developer community.
 </p>
 
-<img align="justify" alt="Coding" width="350" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="justify" alt="Coding" width="350" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
 
 </div>
 
