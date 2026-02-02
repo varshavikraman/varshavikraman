@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&ccolor=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Developer;Building+Scalable+MERN+%26+Web3+Apps)](https://git.io/typing-svg)
 
-Passionate about building scalable web apps and learning new technologies.
+Passionate about building scalable web applications that solve real-world problems.
 
 <img align="justify" alt="Coding" width="350" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
 
@@ -62,12 +62,12 @@ Passionate about building scalable web apps and learning new technologies.
 ---
 
 ## 📊 GitHub Stats
-  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&custom_title=My%20GitHub%20Stats)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavikraman&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshavikraman&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00&stroke=00ff00)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavikraman&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=varshavikraman&theme=radical)
 
 ---
 
