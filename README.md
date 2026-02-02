@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Varsha Vikraman
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Developer;Building+Scalable+MERN+%26+Web3+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&ccolor=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Developer;Building+Scalable+MERN+%26+Web3+Apps)](https://git.io/typing-svg)
 
 Passionate about building scalable web apps and learning new technologies.
 
