@@ -96,12 +96,13 @@ Passionate about building scalable web applications that solve real-world proble
 A decentralized, IoT-enabled farming system focused on **blockchain governance, traceability, and DAO-based decision-making**.
 * **Stack:** `Solidity`, `Ethers.js`, `Web3.js`, `Node.js`, `React.js`
 
----
 
 ### 💻 Personal portfolio site
 A sleek, responsive showcase of my development journey, featuring dynamic GitHub integrations and a custom UI.
 * **Status:** In Progress ⏳
 * **Stack:** `React.js`, `Tailwind CSS`, `Framer Motion`
+
+---
 
 ## 📫 Connect With Me
 
