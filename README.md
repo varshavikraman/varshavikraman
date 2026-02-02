@@ -75,12 +75,6 @@ Passionate about building scalable web applications that solve real-world proble
 
 ---
 
-## 📈 Activity Graph
-
-[![Varsha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshavikraman&bg_color=000000&color=00ff00&line=00ff00&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌟 Featured Projects
 
 ### 🎟️ Event Booking System
