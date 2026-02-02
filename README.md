@@ -90,6 +90,13 @@ Passionate about building scalable web applications that solve real-world proble
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=BlogApp&theme=radical&v=2)](https://github.com/varshavikraman/BlogApp)
 
 ---
+## 🚧 Currently Working On:
+
+### 🌱 Aquaponics DAO
+A decentralized, IoT-enabled farming system using **blockchain governance, traceability, and DAO-based decision making**.
+**Tech: Solidity,Ether.js, Web3, Node.js, React.js**
+
+### Personal portfolio site
 
 ## 📫 Connect With Me
 
