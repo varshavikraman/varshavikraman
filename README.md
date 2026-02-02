@@ -63,7 +63,10 @@ Passionate about building scalable web applications that solve real-world proble
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | GitHub Streak | | :--- | :--- | | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshavikraman&show_icons=true&theme=radical&v=2) | ![GitHub Streak](https://streak-stats.demolab.com/?user=varshavikraman&theme=radical&v=2) |
+| GitHub Stats | GitHub Streak |
+| :--- | :--- |
+| ![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=varshavikraman&show_icons=true&count_private=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=varshavikraman&theme=radical) |
+
 
 ---
 
