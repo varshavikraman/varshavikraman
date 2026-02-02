@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Varsha Vikraman
+# Hi 👋, I'm Varsha Vikraman
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
@@ -13,12 +13,13 @@ Passionate about building scalable web apps and learning new technologies.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 - 🎓 **B.Tech** in Electronics and Communication Engineering
 - 💻 Passionate about **Full-Stack Development (MERN)**
 - 👯 Looking to collaborate on **Open Source / MERN Projects**
-- 🌱 Currently learning **Blockchain Technology**
+- 🔐 Experienced with authentication & authorization (JWT, HTTP-only cookies, role-based access)
+- 🌱 Deepening skills in **Blockchain**, **Smart Contracts** & **DAO architectures**
 - ⚡ **Fun fact:** I enjoy debugging more than coding sometimes 😅
 
 ---
@@ -28,17 +29,28 @@ Passionate about building scalable web apps and learning new technologies.
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⛓️ Blockchain / Web3
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC-20](https://img.shields.io/badge/ERC--20-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC-721](https://img.shields.io/badge/ERC--721-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC-1155](https://img.shields.io/badge/ERC--1155-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![DAO](https://img.shields.io/badge/DAO_&_Token_Systems-Blockchain-4C4C4C?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,6 +58,7 @@ Passionate about building scalable web apps and learning new technologies.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 ---
 
