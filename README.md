@@ -78,12 +78,16 @@ Passionate about building scalable web applications that solve real-world proble
 ## 🌟 Featured Projects
 
 ### 🎟️ Event Booking System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Event-Booking-System&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true)](https://github.com/varshavikraman/Event-Booking-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Event-Booking-System&theme=radical&v=2)](https://github.com/varshavikraman/Event-Booking-System)
 
+### 💰 Personal Finance Advisor
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Personal-Finance-Advisor&theme=radical&v=2)](https://github.com/varshavikraman/Personal-Finance-Advisor)
 
+### ⚡ ENERGY TRADING PLATFORM DAPP
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=ENERGY-TRADING-PLATFORM-DAPP&theme=radical&v=2)](https://github.com/varshavikraman/ENERGY-TRADING-PLATFORM-DAPP)
 
-### 📚 Library Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=Library-Management-System&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true)](https://github.com/varshavikraman/Library-Management-System)
+### 📝 BlogApp
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=varshavikraman&repo=BlogApp&theme=radical&v=2)](https://github.com/varshavikraman/BlogApp)
 
 ---
 
