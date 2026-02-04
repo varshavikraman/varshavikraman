@@ -112,7 +112,7 @@ A sleek, responsive showcase of my development journey, featuring dynamic GitHub
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshavikraman)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshavikraman97@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=FF4380)](https://varshavikraman.github.io/Varsha-Vikraman-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FF4380)](https://varshavikraman.github.io/Varsha-Vikraman-Portfolio)
 
 </div>
 
